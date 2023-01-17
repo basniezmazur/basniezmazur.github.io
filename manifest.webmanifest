@@ -1,8 +1,8 @@
 {
-  "name": "Nami Army",
-  "short_name": "Nami Army",
-  "theme_color": "#e8e2c8",
-  "background_color": "#e8e2c8",
+  "name": "Legendy z Mazur",
+  "short_name": "Legendy z Mazur",
+  "theme_color": "#e0d7c8",
+  "background_color": "#e0d7c8",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
