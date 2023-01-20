@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1674209259788,
+  "timestamp": 1674211479932,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -29,7 +29,7 @@
         "/3236.98c184167bcc6a1b.js",
         "/3446.26e6e6f99f2e5492.js",
         "/3648.81c881a18af5cc86.js",
-        "/3669.11fc8bbd900e5393.js",
+        "/3669.6df58a1a66780b0c.js",
         "/3804.1936c5145a7026b4.js",
         "/388.96d24a321a3df3d2.js",
         "/4101.d11303f4b3e58db5.js",
@@ -74,12 +74,12 @@
         "/9958.22b5e07d82843b48.js",
         "/common.6055dec6180ec2b1.js",
         "/index.html",
-        "/main.7eb1f5564a71dc05.js",
+        "/main.1da7770e91437430.js",
         "/manifest.webmanifest",
         "/polyfills-core-js.c8961a92c3ed4c69.js",
         "/polyfills-dom.5c5f23fb57b03028.js",
         "/polyfills.fd8219ff07f78bd0.js",
-        "/runtime.b856ae2178f998bd.js",
+        "/runtime.bb17701057d0fff9.js",
         "/styles.0e8f1539d61f536b.css"
       ],
       "patterns": []
@@ -177,7 +177,7 @@
     "/3236.98c184167bcc6a1b.js": "d46c6c15fb2aa41dc16bfa7e0aab49498575f317",
     "/3446.26e6e6f99f2e5492.js": "498c48386e8220d4f993480eaf14bb49f61b0e17",
     "/3648.81c881a18af5cc86.js": "6486dcd22e64941e5563b1918ce0b04cbb73b753",
-    "/3669.11fc8bbd900e5393.js": "e5af6a52e16c830908299b408a4fbdd9b3da29d2",
+    "/3669.6df58a1a66780b0c.js": "0690e5197b742994a4b883336fbc13ab8f412df8",
     "/3804.1936c5145a7026b4.js": "7a314dd4cb71ea1c085163ae7da52402f83adb78",
     "/388.96d24a321a3df3d2.js": "f4a6848841a675c79844af0484d66e1d5cd6284c",
     "/4101.d11303f4b3e58db5.js": "c72a4a6e4898bca9dd9f58f21224c04439bdec0e",
@@ -267,13 +267,13 @@
     "/assets/imgs/ulubione.svg": "34e60d6cb79725e9a09ea2c6741d9929758b3e5f",
     "/common.6055dec6180ec2b1.js": "86f2bd949b63d2f7374b9efa5844c01b7356904c",
     "/handwrite.5070e07edad25fcb.svg": "fabde539dd4a3ef2acccb8656bfb3dfa6405f2ae",
-    "/index.html": "19ceaf6dc6791cb13170fde0cc2d8992dcf4c976",
-    "/main.7eb1f5564a71dc05.js": "1e793aae47b70e855c0cf7e38a9cbb5b26a2fb67",
+    "/index.html": "60367f9a5493478625b87532579fcfb837a45e66",
+    "/main.1da7770e91437430.js": "c3c63ace274ebffdbd629c167b44eadb49ad0b62",
     "/manifest.webmanifest": "a52ec8ae4357a77a4758f81c2f2920b87652f129",
     "/polyfills-core-js.c8961a92c3ed4c69.js": "e44d42a08762418090a95d81b35288ab338d21e8",
     "/polyfills-dom.5c5f23fb57b03028.js": "06f5dc30f55bf9a3d9c6f9bca07c0041a6bbdaa0",
     "/polyfills.fd8219ff07f78bd0.js": "ea3ca14ef47fe86267fb1300a70a1b3aabd7ea59",
-    "/runtime.b856ae2178f998bd.js": "9c1c1e49cf5bb7b08a731572316bbb4c6542c1da",
+    "/runtime.bb17701057d0fff9.js": "c679878854b0249d4579d56115af0a268c7f7fc5",
     "/styles.0e8f1539d61f536b.css": "86c258d5d2d66f96c96b0341ef76f22363b815cd"
   },
   "navigationUrls": [
